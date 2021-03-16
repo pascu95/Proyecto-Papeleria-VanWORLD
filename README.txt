@@ -1,1 +1,1 @@
-CREAR BASE DE DATOS LLAMADO sistema_inventario
+Código para el desarrollo del proyecto del diseño  de inventario para la papelería VANWORLD
