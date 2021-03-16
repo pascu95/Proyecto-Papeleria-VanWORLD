@@ -1,0 +1,1 @@
+CREAR BASE DE DATOS LLAMADO sistema_inventario
